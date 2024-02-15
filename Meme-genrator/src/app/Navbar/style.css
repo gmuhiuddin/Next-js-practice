@@ -1,0 +1,7 @@
+.navbar-container{
+height: 10vh;
+width: 100%;
+font-size: 1.3rem;
+background-color: aqua;
+position: fixed;
+}
