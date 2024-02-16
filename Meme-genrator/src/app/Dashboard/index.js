@@ -15,6 +15,8 @@ async function Dashboard() {
                 <Image className='meme-images' width={313} height={313} src={element?.url} alt={`Meme ${index} image`} />
                 <br />
                 <br />
+                <h2>{element.name}</h2>
+                <br />
                 <Link className='link' href={`detail/${element.id}`} >Generate meme</Link>
                 </div>
         })}
