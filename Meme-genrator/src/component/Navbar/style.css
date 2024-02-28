@@ -1,5 +1,6 @@
 .navbar-container {
-    height: 13vh;
+    padding-top: 3px;
+    height: 13.5vh;
     width: 100%;
     font-size: 1.3rem;
     background-color: rgb(255, 255, 255);
@@ -16,5 +17,6 @@
 
 .navbar-container h1 {
     margin-left: 19px;
-    font-size: 35px;
+    font-size: 39px;
+    cursor: pointer;
 }
